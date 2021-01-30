@@ -1,5 +1,5 @@
 {
-  "name": "ajs82",
+  "name": "ajs91",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -41,16 +41,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IsmagilovRF/ajs82.git"
+    "url": "git+https://github.com/IsmagilovRF/ajs91.git"
   },
   "bugs": {
-    "url": "https://github.com/IsmagilovRF/ajs82/issues"
+    "url": "https://github.com/IsmagilovRF/ajs91/issues"
   },
-  "homepage": "https://github.com/IsmagilovRF/ajs82#readme",
+  "homepage": "https://github.com/IsmagilovRF/ajs91#readme",
   "husky": {
     "hooks": {
       "pre-commit": "npm test"
     }
   },
-  "description": "ajs82 ДЗ82"
+  "description": "ajs91 ДЗ91"
 }

@@ -1,4 +1,3 @@
-
 import Character from './base';
 
 export default class Daemon extends Character {
